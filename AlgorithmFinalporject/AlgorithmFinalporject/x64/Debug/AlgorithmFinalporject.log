@@ -1,0 +1,5 @@
+﻿  algorithm.cpp
+C:\Users\Adios\source\repos\AlgorithmFinalporject\AlgorithmFinalporject\algorithm.cpp(56,11): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\Adios\source\repos\AlgorithmFinalporject\AlgorithmFinalporject\algorithm.cpp(68,11): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\Adios\source\repos\AlgorithmFinalporject\AlgorithmFinalporject\algorithm.cpp(102,60): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+  AlgorithmFinalporject.vcxproj -> C:\Users\Adios\source\repos\AlgorithmFinalporject\x64\Debug\AlgorithmFinalporject.exe
